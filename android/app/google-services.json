@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "293461002643",
+    "project_id": "agrobuzz-2c266",
+    "storage_bucket": "agrobuzz-2c266.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:293461002643:android:fd97c48748d89043f5c066",
+        "android_client_info": {
+          "package_name": "com.example.agro_buzz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "293461002643-hp9r46q7e54sbnn6761ha07vhrm1oh4b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuPg-g7Oe64EnjO9-RWcZJU4NfD8keII4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "293461002643-hp9r46q7e54sbnn6761ha07vhrm1oh4b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

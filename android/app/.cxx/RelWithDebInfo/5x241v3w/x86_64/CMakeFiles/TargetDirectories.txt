@@ -1,0 +1,2 @@
+D:/agro_buzz-main/android/app/.cxx/RelWithDebInfo/5x241v3w/x86_64/CMakeFiles/edit_cache.dir
+D:/agro_buzz-main/android/app/.cxx/RelWithDebInfo/5x241v3w/x86_64/CMakeFiles/rebuild_cache.dir
