@@ -1,7 +1,0 @@
-{
-    "java.compile.nullAnalysis.mode": "automatic",
-    "cSpell.words": [
-        "cpassword"
-    ],
-    "java.configuration.updateBuildConfiguration": "automatic"
-}
